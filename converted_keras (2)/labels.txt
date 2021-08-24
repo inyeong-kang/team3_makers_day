@@ -1,0 +1,3 @@
+0 blouse
+1 hoodie
+2 T-shirt
